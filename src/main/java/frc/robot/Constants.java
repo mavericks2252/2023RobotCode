@@ -72,7 +72,7 @@ public final class Constants {
         public static final double kTeleDriveMaxAccelerationUnitsPerSecond = 1;
         public static final double kTeleDriveMaxAngularAccelerationUnitsPerSecond = 15;
         public static final double kTeleDriveMaxSpeedMetersPerSecond = 10;
-        public static final double kTeleDriveMaxAngularSpeedRadiansPerSecond = 15;
+        public static final double kTeleDriveMaxAngularSpeedRadiansPerSecond = 10;
     }
 
     public static final class OIConstants {
